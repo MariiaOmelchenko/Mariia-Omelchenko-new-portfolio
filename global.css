@@ -1,0 +1,24 @@
+
+body {
+    margin: 0;
+    line-height: normal;
+}
+
+
+:root {
+    
+    /* fonts */
+    --font-m-plus-1: 'M PLUS 1';
+    --font-great-vibes: 'Great Vibes';
+    
+    /* font sizes */
+    --font-size-5xl: 24px;
+    --font-size-xl: 20px;
+    
+    /* Colors */
+    --color-white: #fff;
+    
+    /* Border radiuses */
+    --br-3xs: 10px;
+    
+}

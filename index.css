@@ -1,0 +1,156 @@
+.property-1variant1-child {
+    position: absolute;
+    height: 121.48%;
+    width: 100%;
+    top: 0%;
+    right: 0%;
+    bottom: -21.48%;
+    left: 0%;
+    background-color: #d9d9d9;
+}
+.istockphoto-1223005887-612x612-icon {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 420px;
+    /*object-fit: cover;*/
+}
+.im-mariia-omelchenko {
+    position: absolute;
+    top: 76px;
+    left: 568px;
+    font-size: 48px;
+    font-family: var(--font-great-vibes);
+    display: inline-block;
+    width: 409px;
+    height: 52px;
+}
+.button1-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: var(--br-3xs);
+    background-color: rgba(151, 71, 255, 0.53);
+    width: 250px;
+    height: 46px;
+}
+.systemutverklare-cc {
+    position: absolute;
+    top: 9px;
+    left: 11px;
+    display: inline-block;
+    width: 244px;
+    height: 29px;
+}
+.button1 {
+    position: absolute;
+    top: 138px;
+    left: 712px;
+    width: 255px;
+    height: 46px;
+}
+.welcome {
+    position: absolute;
+    top: 31px;
+    left: 618px;
+    display: inline-block;
+    width: 94px;
+    height: 28px;
+}
+.istockphoto-1223005887-612x612-parent {
+    position: absolute;
+    top: -1px;
+    left: -1px;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 420px;
+    overflow: hidden;
+}
+.navigation-child {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    background: linear-gradient(90deg, #012148, #000116);
+    width: 100%;
+    height: 99px;
+}
+.home {
+    position: absolute;
+    top: 30px;
+    left: 83px;
+    display: inline-block;
+    width: 68px;
+    height: 33px;
+}
+.about-me {
+    position: absolute;
+    top: 29px;
+    left: 226px;
+    display: inline-block;
+    width: 128px;
+    height: 36px;
+}
+.projects {
+    position: absolute;
+    top: 29px;
+    left: 637px;
+    display: inline-block;
+    width: 101px;
+    height: 38px;
+}
+.experience {
+    position: absolute;
+    top: 28px;
+    left: 422px;
+    display: inline-block;
+    width: 133px;
+    height: 39px;
+}
+.contact {
+    position: absolute;
+    top: 30px;
+    left: 800px;
+    text-decoration: underline;
+    display: inline-block;
+    width: 111px;
+    height: 36px;
+}
+.navigation {
+    position: absolute;
+    top: 413px;
+    left: -1px;
+    width: 100%;
+    height: 99px;
+    font-size: var(--font-size-5xl);
+}
+.property-1variant1 {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.huvudsidan {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    box-sizing: border-box;
+    width: 100%;
+    height: 533px;
+    overflow: hidden;
+}
+.huvudsidan-parent {
+    width: 100vw; 
+    height: 100vh; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: relative;
+    border-radius: var(--br-3xs);
+    height: 533px;
+    text-align: left;
+    font-size: var(--font-size-xl);
+    color: var(--color-white);
+    font-family: var(--font-m-plus-1);
+}
+
