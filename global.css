@@ -4,7 +4,6 @@ body {
     line-height: normal;
 }
 
-
 :root {
     
     /* fonts */
@@ -21,4 +20,8 @@ body {
     /* Border radiuses */
     --br-3xs: 10px;
     
+}
+
+html {
+    scroll-behavior: smooth;
 }
