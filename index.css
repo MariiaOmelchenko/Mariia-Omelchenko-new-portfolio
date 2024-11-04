@@ -360,7 +360,7 @@ ul li i {
 }
 
 .contact-section {
-    background-color: #ffcdd2;
+    background: linear-gradient(135deg, #f4f4f4, #ffcdd2);
     padding: 40px 20px;
     text-align: center;
 }
